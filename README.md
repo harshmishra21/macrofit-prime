@@ -95,7 +95,7 @@ Building **MacroFit Prime** from scratch provided deep technical learnings acros
 ## 📂 Project Structure
 
 ```
-/Users/harshmishra/Desktop/Flutter Mini Project/
+macrofit_prime/
 ├── lib/
 │   ├── main.dart                          # Root app entrypoint & Provider initialization
 │   ├── theme/
@@ -121,8 +121,7 @@ Building **MacroFit Prime** from scratch provided deep technical learnings acros
 │       └── profile_settings_screen.dart   # Biometrics target editor & Light/Dark theme toggle
 ├── test/
 │   └── widget_test.dart                  # Automated smoke & widget tests
-├── pubspec.yaml                           # App configuration & package dependencies
-└── SPEECH_README.md                       # Presentation speech script & feature logic guide
+└── pubspec.yaml                           # App configuration & package dependencies
 ```
 
 ---
@@ -137,7 +136,8 @@ Building **MacroFit Prime** from scratch provided deep technical learnings acros
 
 1. **Clone or Navigate to the Workspace Directory**:
    ```bash
-   cd "/Users/harshmishra/Desktop/Flutter Mini Project"
+   git clone https://github.com/harshmishra21/macrofit-prime.git
+   cd macrofit-prime
    ```
 
 2. **Install Package Dependencies**:
@@ -165,8 +165,3 @@ Building **MacroFit Prime** from scratch provided deep technical learnings acros
      flutter build web
      ```
 
----
-
-## 📄 Presentation Speech Guide
-
-Looking for presentation speech scripts or quick technical explanations of core widgets? Check out [`SPEECH_README.md`](file:///Users/harshmishra/Desktop/Flutter%20Mini%20Project/SPEECH_README.md) for a ready-to-use 5-minute Hinglish demo script!
