@@ -165,3 +165,16 @@ macrofit_prime/
      flutter build web
      ```
 
+---
+
+## 💖 Thank You & Connect With Me!
+
+Thank you so much for checking out **MacroFit Prime**! If you found this project helpful or inspiring, please consider giving it a ⭐ on GitHub!
+
+Feel free to reach out, connect, or collaborate:
+- **GitHub**: [@harshmishra21](https://github.com/harshmishra21)
+- **Project Repository**: [harshmishra21/macrofit-prime](https://github.com/harshmishra21/macrofit-prime)
+
+*Happy coding & stay fit! 🚀🏋️‍♂️*
+
+
